@@ -1,3 +1,6 @@
-Inisiasi: 1. Angka
-Proses: 2. Apabila angka habis dibagi dua maka angka berbilangan genap, dan apabila angka tidak habis dibagi dua maka angka berbilangan ganjil
-Output: 3. Tampilkan angka
+Masukan nilai yang di inginkan
+Bagi bilangan yang di inginkan dengan angka 2
+Jika hasil pembagian sama dengan(=)0 maka itu bilangan genap
+jika hasil pembagian tidak sama dengan 0,maka itu bilangan ganjil
+Tampilkan hasil genap
+Tampilkan hasil ganjil
